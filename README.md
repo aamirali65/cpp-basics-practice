@@ -1,4 +1,4 @@
-# C-PLUS-TASK
+# CPP Basics Practice
 
 Five small C++ console programs from my early practice with the language — the kind of exercises that build up variables, arithmetic, conditionals and basic input.
 
